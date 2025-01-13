@@ -1,0 +1,8 @@
+Guidelines to prepare the Enviorment for this project:
+
+conda create -p venv python==3.10
+
+conda activate venv/
+
+pip install -r requirments.txt
+
